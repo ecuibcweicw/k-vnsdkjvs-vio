@@ -4,3 +4,5 @@ apscheduler
 pytz
 datetime
 db-sqlite3
+colorama
+loguru
